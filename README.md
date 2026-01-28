@@ -74,7 +74,7 @@ Applications et scripts.
 ## 📫 Me contacter
 
 📧 Email : wassim.benyounes.cv@gmail.com 
-💼 LinkedIn : https://www.linkedin.com/in/wassim-ben-younes-71482834b/  
+💼 LinkedIn : https://www.linkedin.com/in/wassim-benyounes-71482834b/
 🌐 Portfolio : https://wassim-18.github.io/Portfolio/
 
 ---
